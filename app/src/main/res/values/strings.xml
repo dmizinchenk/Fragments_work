@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragments_work</string>
+    <string name="btn_fragment1">Список стран</string>
+    <string name="btn_fragment2">Карточка</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fio">Сухоруков Валентин Семенович</string>
+    <string name="phone">+7 (999) 456-13-81</string>
+</resources>
